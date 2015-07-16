@@ -1,5 +1,5 @@
 # circleApp
 
-a app from PhoneGrap
+PhoneGrap App
 
 circleApp
